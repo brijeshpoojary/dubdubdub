@@ -23,6 +23,8 @@ FIELD_COORDINATORS = {
     "lingasugur": "kumargaded@gmail.com",
     "hagaribommanahalli": "natab146@gmail.com",
     "chincholi": "sudhakarpatil108@gmail.com",
+    "devanahalli": "lakshminarayan052017@gmail.com",
+    "doddaballapura": "gowrishankaras1@gmail.com",
     "hospet": "pandithkhm9009@gmail.com",
     "kudligi": "mayurappab@gmail.com",
     "bidar": "mbiradar777@gmail.com",
